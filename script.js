@@ -227,7 +227,6 @@ startGame.addEventListener('click',function() {
 
                     startGame.textContent = "Play Again!"
                     spanPlay.appendChild(startGame)
-                    console.log()
                 }
             }
 
